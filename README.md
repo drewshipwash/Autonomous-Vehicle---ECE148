@@ -1,4 +1,4 @@
-# Autonomous-Vehicle---ECE148
+# Autonomous Vehicle - MAE/ECE 148
 
 
 An autonomous vehicle project for **ECE/MAE 148: Introduction to Autonomous Vehicles** at UC San Diego.
